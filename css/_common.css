@@ -43,7 +43,7 @@ a,
 .button-text,
 ol,
 ul {
-  color: var(--black-color);
+  color: var(--black);
   margin: 0;
 }
 
@@ -88,29 +88,27 @@ img {
   font-weight: 600;
 }
 
-.orange-text {
-  color: var(--orange-color);
-}
 .white-text {
-  color: var(--white-color);
+  color: var(--white);
 }
 .grey-text {
-  color: var(--grey-color);
+  color: var(--grey);
 }
 .brown-text {
-  color: var(--brown-color);
+  color: var(--brown);
 }
 .black-text {
-  color: var(--black-color);
+  color: var(--black);
 }
 .link {
-  color: var(--orange-color);
+  color: var(--blue-800);
   cursor: pointer;
   width: fit-content;
+  font-size: bold;
   transition: all 0.2s;
 }
 .link:hover {
-  color: var(--dark-orange-color);
+  color: var(--red-600);
 }
 
 .light-bold-text {

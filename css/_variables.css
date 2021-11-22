@@ -1,22 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
 
 :root {
-  --white-color: #FFFFFF;
+  --white: #FFFFFF;
 
-  --light-yellow-color: #fcf8e3;
-  --orange-color: #FF9F00;
-  --dark-orange-color: #d7760f;
-  --red-orange-color: #CF4B0B;
-  --dark-red-color: #BB2B3E;
-  --light-green-color: #DFF0D8;
-  --green-color: #7BB646;
-  --dark-green-color: #458747;
-  --light-blue-color: #99CCFF;
-  --brown-color: #533E08;
+  --blue-200: #D9E5E9;
+  --blue-400: #98CBDE;
+  --blue-500: #6E99F4;
+  --blue-600: #51688D;
+  --blue-700: #283559;
+  --blue-800: #2C3C54;
 
-  --light-grey-color: #E8E8E8;
-  --medium-grey-color: #9f9f9f;
-  --grey-color: #777;
+  --red-600: #DA3736; 
 
-  --black-color: #000000;
+  --light-grey: #E8E8E8;
+  --medium-grey: #9f9f9f;
+  --grey: #777;
+
+  --black: #000000;
 }
