@@ -12,3 +12,39 @@
   width: 100vw;
   height: 100vh;
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.px-3 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.py-3 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.uppercase {
+  text-transform: capitalize;
+}
+
+.w-full {
+  width: 100%;
+}
