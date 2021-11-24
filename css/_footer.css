@@ -28,7 +28,7 @@
 }
 
 .footer-container .blue-back {
-  flex: 1;
+  flex: 2;
   background-color: var(--blue-700);
 }
 
