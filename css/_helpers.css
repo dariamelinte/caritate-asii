@@ -48,6 +48,56 @@
   padding-bottom: 1.25rem;
 }
 
+.px-6{
+  padding-left: 2.50rem;
+  padding-right: 2.50rem;
+}
+
+.py-6 {
+  padding-top: 2.50rem;
+  padding-bottom: 2.50rem;
+}
+
+.px-9{
+  padding-left: 3.75rem;
+  padding-right: 3.75rem;
+}
+
+.py-9 {
+  padding-top: 3.75rem;
+  padding-bottom: 3.75rem;
+}
+
+.mx-3 {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+.my-3 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.mx-6 {
+  margin-left: 2.50rem;
+  margin-right: 2.50rem;
+}
+
+.my-6 {
+  margin-top: 2.50rem;
+  margin-bottom: 2.50rem;
+}
+
+.mx-9 {
+  margin-left: 3.75rem;
+  margin-right: 3.75rem;
+}
+
+.my-9 {
+  margin-top: 3.75rem;
+  margin-bottom: 3.75rem;
+}
+
 .uppercase {
   text-transform: uppercase;
 }
