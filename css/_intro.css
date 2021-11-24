@@ -1,0 +1,76 @@
+.intro-container {
+  height: 85vh;
+  padding: 3rem;
+}
+
+.intro-container .title {
+  color: var(--blue-700);
+  font-size: 5rem;
+  font-family: 'Montagu Slab', serif;
+  font-weight: 700;
+  animation: title-moving 1.5s ease-in-out infinite;
+}
+
+.intro-container .description {
+  color: var(--grey);
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding-top: 1.5rem;
+}
+
+.intro-elf-container {
+  margin-left: 2rem;
+}
+
+@keyframes title-moving {
+  0% {
+    transform: translateY(0);
+  }
+  20% {
+    transform: translateY(0.25rem);
+  }
+  40% {
+    transform: translateY(0);
+  }
+  60% {
+    transform: translateY(0.1rem);
+  }
+  80% {
+    transform: translateY(0);
+  }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1059px) {
+  .intro-container .title {
+    font-size: 3.5rem;
+  }
+
+  .intro-container .description {
+    font-size: 1.1rem;
+  }
+}
+
+@media screen and (max-width: 899px) {
+  .intro-container .title {
+    font-size: 2.5rem;
+  }
+
+  .intro-container .description {
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 699px) {
+  .intro-container {
+    flex-direction: column;
+    padding: 1.5rem;
+  }
+
+  .intro-container .description {
+    padding-bottom: 1.5rem;
+  }
+
+  .intro-elf-container {
+    margin-left: 0;
+  }
+}

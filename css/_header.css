@@ -17,3 +17,19 @@
   height: 3.75rem;
   padding: 0.625rem;
 }
+
+/* will be removed when we link all th epages together */
+.screen-container {
+  height: 100vh;
+  width: 100vw;
+}
+
+#despre {
+  background-color: var(--blue-200);
+}
+#beneficiari {
+  background-color: var(--blue-400);
+}
+#program {
+  background-color: var(--blue-500);
+}

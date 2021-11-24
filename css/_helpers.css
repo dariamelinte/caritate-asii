@@ -4,6 +4,10 @@
   justify-content: center;
 }
 
+.flex {
+  display: flex;
+}
+
 .flex-1 {
   flex: 1;
 }
@@ -16,6 +20,9 @@
 .row {
   display: flex;
   flex-direction: row;
+}
+
+.flex-wrap {
   flex-wrap: wrap;
 }
 
@@ -97,4 +104,12 @@
 
 .w-full {
   width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
 }

@@ -1,5 +1,10 @@
 @import './_variables.css';
 @import './_common.css';
 @import './_helpers.css';
+
 @import './_header.css';
 @import './_about.css';
+@import './_intro.css';
+
+@import './_partners.css';
+@import './_footer.css';
