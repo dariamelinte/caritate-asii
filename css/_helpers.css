@@ -4,6 +4,10 @@
   justify-content: center;
 }
 
+.flex {
+  display: flex;
+}
+
 .flex-1 {
   flex: 1;
 }
@@ -50,4 +54,12 @@
 
 .w-full {
   width: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
 }
