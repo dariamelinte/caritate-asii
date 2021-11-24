@@ -11,7 +11,8 @@
   <body>
     <div id="acasa" class="screen-container">
 
-      <header>
+      <!-- Header -->
+      <header style="position: sticky;">
         <image src="../assets/svg/header.svg" />
 
         <div class="row flex-wrap px-3 py-3 items-center justify-between">
@@ -34,8 +35,24 @@
           </div>
         </div>
       </header>
+
+      <!-- Title Page -->
       
-      Acasa
+      <div class="row intro-container centered-container">
+        <div class="flex-1">
+          <div class="title">Craciun din inima de student</div>
+          <div class="description">
+            Asociația Studenților Informaticieni Ieșeni vă invită să deveniți eroii preferați ai unor copii 
+            cu ocazia desfășurării Ediției a 17-a a Balului de Caritate “Crăciun din inimă de student”. În 
+            aceste vremuri tumultoase, să ai grijă de aproapele tău este cel mai frumos sentiment posibil, 
+            așadar, dacă și tu crezi în deviza noastră: „Uniți, din propriile case, dăruim!”, nu rata șansa 
+            de a fi steaua norocoasă a celor ce așteaptă una!
+          </div>
+        </div>
+        <div class="flex-1">
+          <img class="intro-elf-container" src="../assets/images/elf-city.png" />
+        </div>
+      </div>
     </div>
     <div id="despre" class="screen-container">
       Despre
@@ -47,5 +64,57 @@
       Program
     </div>
 
+    <!-- Partners -->
+
+    <div class="partners-title py-3 white-text bold-text uppercase centered-text">Parteneri</div>
+
+    <div id="partners" class="centered-container flex-wrap"></div>
+
+    <!-- Footer -->
+    <div class="footer-container">
+      <div class="relative">
+        <div class="trees-dimensions flex trees-back centered-container">
+          <div class="white-back"></div>
+          <div class="blue-back"></div>
+        </div>
+        <div class="absolute trees-dimensions trees-cover">
+          <div class="flex trees centered-container"></div>
+        </div>
+      </div>
+
+      <div class="footer row items-center py-3">
+        <div class="px-3">
+          <img class="asii-icon" src="../assets/svg/asii.svg" />
+          <div class="event-name">Crăciun din inimă de student</div>
+        </div>
+
+        <div class="flex-1 row justify-between flex-wrap info">
+          <div class="px-3 py-3">
+            <div class="title">Despre eveniment</div>
+            <div class="subtitile"><a href="#acasa" class="white-text">Acasă</a></div>
+            <div class="subtitle"><a href="#despre" class="white-text">Balul de caritate</a></div>
+          </div>
+
+          <div class="px-3 py-3">
+            <div class="title">Beneficiar</div>
+            <div class="subtitle"><a href="#beneficiari" class="white-text">Povestea</a></div>
+            <div class="subtitle"><a href="#beneficiari" class="white-text">Donații</a></div>
+          </div>
+
+          <div class="px-3 py-3">
+            <div class="title">Contactează-ne</div>
+            <div class="subtitle"><a href="#coordonatori" class="white-text">Coordonatori</a></div>
+            <div class="subtitle"><a href="https://www.asii.ro/" target="blank" class="white-text">ASII</a></div>
+          </div>
+        </div>
+
+        <a class="px-3" href="https://www.facebook.com/BaluldeCaritateASII/" target="blank">
+          <img class="facebook-icon" src="../assets/images/facebook.png" />
+        </a>
+      </div>
+
+    </div>
+
   </body>
+  <script src="../js/partners.js"></script>
 </html>
