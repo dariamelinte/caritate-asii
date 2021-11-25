@@ -113,3 +113,14 @@
 .absolute {
   position: absolute;
 }
+.centerXY{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.centerX{
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}

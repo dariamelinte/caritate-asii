@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1900px" height="600px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 190000 60000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:#6E99F5;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="detalii_ribbon" data-name="detalii ribbon">
+   <polygon id="Path_745" class="fil0" points="1250,6406 188750,6406 178611,30734 188750,53594 1250,53594 12525,30734 " data-name="Path 745"/>
+   <g id="Path_746" data-name="Path 746">
+    <polygon class="fil1" points="3437,7656 186503,7656 176604,30695 186503,52344 3437,52344 14446,30695 "/>
+    <g>
+     <path class="fil2" d="M4429 8281l10581 22145 133 278 -140 274 -10547 20741 181074 0 -9494 -20764 -116 -252 110 -255 9524 -22167 -109273 0 -71852 0 0 0zm-992 -625l72844 0 110222 0 -9899 23039 9899 21649 -183066 0 11009 -21649 -11009 -23039z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

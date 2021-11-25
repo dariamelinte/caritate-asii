@@ -1,0 +1,26 @@
+#program { 
+
+}
+.border {
+    background-image: url("../assets/images/program-border.png");
+    height: 20px;
+    background-color: #97cade;
+}
+.program-content {
+    background-color: #97cade;
+    height: 500px;
+    width: 100%;
+    background-image: url("../assets/svg/program.svg");
+}
+.rectangle {
+    text-align: center;
+    
+}
+.program-text {
+    color: white;
+    background: rgba(0,0,0,.5);
+    padding: 20px 70px;
+    font-size: 23px;
+    font-family: Roboto, sans-serif;
+    border-radius: 4px;
+}
