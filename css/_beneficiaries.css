@@ -1,0 +1,59 @@
+#beneficiaries {
+
+}
+
+#beneficiaries-top {
+    background-image: url(../assets/svg/beneficiaries-header.svg);
+    background-repeat: no-repeat;
+    height: 72px;
+}
+
+#beneficiaries-top-title{
+    text-align: center;
+    text-transform: uppercase;
+    color:var(--white);
+    font-weight: 500;
+    font-size: 25px;
+    padding: 1% 0;
+}
+
+#beneficiaries-content{
+    display: flex;
+}
+
+#beneficiaries-content-description{
+    width: 50%;
+}
+
+#beneficiaries-content-description-imgwrap{
+    width: 50%;
+}
+
+#beneficiaries-content-description-imgwrap-img{
+    
+}
+
+#beneficiaries-content-description-IBANwrap{
+    background-image: url(../assets/svg/iban-zone.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 5%;
+}
+
+#beneficiaries-content-description-IBANwrap > *{
+    color:var(--white);
+    font-size: 25px;
+}
+
+#beneficiaries-content-imgwrap{
+
+}
+
+#beneficiaries-content-imgwrap-img{
+}
+
+#beneficiaries-bottom{
+    background-image: url(../assets/svg/red-white-line.svg);
+    height: 50px;
+    background-repeat: no-repeat;
+}
