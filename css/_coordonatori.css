@@ -1,0 +1,41 @@
+.coordonatori {
+    
+}
+.coord-titlu {
+    
+    display: flex;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    height: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("../assets/svg/coordinator-header.svg");
+    background-position: center;
+}
+.coord-1 {
+    font-family: "Roboto";
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("../assets/svg/coordinator-details.svg");
+    background-position: center;
+}
+.coord-2 {
+    font-family: "Roboto";
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("../assets/svg/coordinator-details.svg");
+    background-position: center;
+}

@@ -113,13 +113,17 @@
 .absolute {
   position: absolute;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2bd170d0578c56101faed4473d72b4f18367c657
 .centerXY{
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100%;
 }
+<<<<<<< HEAD
 
 .centerY{
   display: flex;
@@ -127,6 +131,8 @@
   height: 100%;
 }
 
+=======
+>>>>>>> 2bd170d0578c56101faed4473d72b4f18367c657
 .centerX{
   display: flex;
   justify-content: center;

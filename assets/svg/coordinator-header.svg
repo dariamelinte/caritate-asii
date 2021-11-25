@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1450px" height="300px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 145000 30000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#FF3050;stroke-width:444;stroke-miterlimit:22.9256}
+    .str1 {stroke:white;stroke-width:444;stroke-miterlimit:22.9256}
+    .str0 {stroke:white;stroke-width:444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:#6E99F5;fill-rule:nonzero}
+    .fil3 {fill:#FF3050;fill-rule:nonzero}
+    .fil2 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon id="Path_736" class="fil0" points="123188,26876 143300,26876 141841,19767 143300,13023 123188,13023 " data-name="Path 736"/>
+  <polyline id="Path_737" class="fil1 str0" points="123994,25573 141188,25573 139934,19951 141503,14336 124397,14336 " data-name="Path 737"/>
+  <polygon id="Path_738" class="fil0" points="134125,22076 123188,26876 123188,18858 " data-name="Path 738"/>
+  <polygon id="Path_739" class="fil0" points="21812,3123 1700,3123 3159,10233 1700,16976 21812,16976 " data-name="Path 739"/>
+  <polyline id="Path_740" class="fil1 str1" points="21159,4236 3247,4236 4653,10051 3247,16005 21159,16005 " data-name="Path 740"/>
+  <polygon id="Path_741" class="fil0" points="10875,7923 21812,3123 21812,11142 " data-name="Path 741"/>
+  <rect id="Rectangle_54" class="fil0" x="10869" y="7920" width="123335" height="14156" data-name="Rectangle 54"/>
+  <line id="Line_17" class="fil1 str1" x1="10869" y1="9436" x2="134206" y2= "9436"  data-name="Line 17"/>
+  <line id="Line_18" class="fil1 str1" x1="10869" y1="20858" x2="134206" y2= "20858"  data-name="Line 18"/>
+  <circle id="Ellipse_34" class="fil2 str2" cx="15819" cy="14998" r="2269" data-name="Ellipse 34"/>
+  <path id="Path_742" class="fil3" d="M16569 15342c178,-59 215,-116 215,-116l-519 -853c216,-18 179,-56 179,-56l-625 -1028 -626 1028c0,0 -37,38 179,56l-519 863c0,0 37,56 216,116l-500 850c391,180 818,274 1250,274 431,0 858,-94 1250,-275l-500 -859z" data-name="Path 742"/>
+  <path id="Ellipse_35" class="fil2 str2" d="M131528 14998c0,-1253 -1015,-2268 -2268,-2268 -1253,0 -2269,1015 -2269,2268 0,1253 1016,2269 2269,2269 1253,0 2268,-1016 2268,-2269z" data-name="Ellipse 35"/>
+  <path id="Path_744" class="fil3" d="M130010 15342c178,-59 215,-116 215,-116l-519 -853c216,-18 179,-56 179,-56l-625 -1028 -625 1028c0,0 -38,38 178,56l-519 863c0,0 37,56 216,116l-500 850c391,180 818,274 1250,274 431,0 858,-94 1250,-275l-500 -859z" data-name="Path 744"/>
+ </g>
+</svg>

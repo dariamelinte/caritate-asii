@@ -5,8 +5,13 @@
 @import './_header.css';
 @import './_about.css';
 @import './_intro.css';
+<<<<<<< HEAD
 @import './_beneficiaries.css';
 @import './_other.css';
+=======
+@import './_coordonatori.css';
+@import './_program.css';
+>>>>>>> 2bd170d0578c56101faed4473d72b4f18367c657
 
 @import './_partners.css';
 @import './_footer.css';
