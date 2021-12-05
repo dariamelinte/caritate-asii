@@ -25,6 +25,7 @@
 
 #other-counterWrapper{
     width: 50%;
+    position: relative;
 }
 
 #other-counterWrapper-counter{
@@ -32,6 +33,38 @@
     width: 400px;
     background-color: var(--pink);
     position: absolute;
-    margin-top: 110px;
-    margin-left: 240px;
+    top: 110px;
+    right: 80px;
+    font-size: 1.2em;
+}
+
+.red-line{
+    background-color: red;
+    height: 3px;
+    width: 25%;
+}
+
+@media screen and (max-width: 900px){
+    #other{
+        display: block;
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #other-description{
+        width: auto;
+    }
+    #other-counterWrapper{
+        width: auto;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: 0.9em;
+    }
+    #other-counterWrapper-counter{
+        width: auto;
+        position: static;
+        min-width: none;
+    }
+    #other-description > p {
+        width: auto;
+    }
 }

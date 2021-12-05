@@ -23,6 +23,7 @@
 
 #beneficiaries-content-description{
     width: 50%;
+    font-size: 1em;
 }
 
 #beneficiaries-content-description-imgwrap{
@@ -32,28 +33,66 @@
 #beneficiaries-content-description-imgwrap-img{
     
 }
+#beneficiaries-content-description-help{
+    font-size: 2em;
+}
 
 #beneficiaries-content-description-IBANwrap{
     background-image: url(../assets/svg/iban-zone.svg);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 5%;
-}
-
-#beneficiaries-content-description-IBANwrap > *{
     color:var(--white);
-    font-size: 25px;
+    font-size: 1.5em;
 }
 
 #beneficiaries-content-imgwrap{
-
+    width: 50%;
+    align-self: center;
 }
 
 #beneficiaries-content-imgwrap-img{
+
 }
 
 #beneficiaries-bottom{
     background-image: url(../assets/svg/red-white-line.svg);
     height: 50px;
     background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 751px) and (max-width: 1200px){
+    #beneficiaries-content-description{
+        font-size: 0.8em;
+    }
+}
+
+@media screen and (max-width:1200px){
+    #beneficiaries-content-description-IBANwrap{
+        font-size: 1em;
+        
+    }
+}
+
+@media screen and (max-width: 750px){
+    #beneficiaries-content{
+        display: block;
+    }
+
+    #beneficiaries-content-description{
+        width: auto;
+    }
+
+    #beneficiaries-content-imgwrap{
+        width: auto;    
+    }
+
+    #beneficiaries-content-description-IBANwrap{
+        padding: 2%;
+        
+    }
+
+    #beneficiaries-content-description-IBANwrap > *{
+        font-size: 0.9em;
+    }
 }
