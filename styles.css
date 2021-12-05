@@ -1,15 +1,17 @@
-@import 'css/_variables.css';
-@import 'css/_common.css';
-@import 'css/_helpers.css';
+/* To be imported as it is here if the deployment is changed from github pages */
 
-@import 'css/_header.css';
-@import 'css/_about.css';
-@import 'css/_intro.css';
-@import 'css/_beneficiaries.css';
-@import 'css/_other.css';
-@import 'css/_slideshow.css';
-@import 'css/_coordonatori.css';
-@import 'css/_program.css';
+/* @import './css/variables.css';
+@import './css/common.css';
+@import './css/helpers.css';
 
-@import 'css/_partners.css';
-@import 'css/_footer.css';
+@import './css/header.css';
+@import './css/about.css';
+@import './css/intro.css';
+@import './css/beneficiaries.css';
+@import './css/other.css';
+@import './css/slideshow.css';
+@import './css/coordonatori.css';
+@import './css/program.css';
+
+@import './css/partners.css';
+@import './css/footer.css'; */
