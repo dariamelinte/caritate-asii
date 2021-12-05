@@ -1,15 +1,15 @@
-@import 'css/variables.css';
-@import 'css/common.css';
-@import 'css/helpers.css';
+@import './css/variables.css';
+@import './css/common.css';
+@import './css/helpers.css';
 
-@import 'css/header.css';
-@import 'css/about.css';
-@import 'css/intro.css';
-@import 'css/beneficiaries.css';
-@import 'css/other.css';
-@import 'css/slideshow.css';
-@import 'css/coordonatori.css';
-@import 'css/program.css';
+@import './css/header.css';
+@import './css/about.css';
+@import './css/intro.css';
+@import './css/beneficiaries.css';
+@import './css/other.css';
+@import './css/slideshow.css';
+@import './css/coordonatori.css';
+@import './css/program.css';
 
-@import 'css/partners.css';
-@import 'css/footer.css';
+@import './css/partners.css';
+@import './css/footer.css';
