@@ -8,8 +8,6 @@
     />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Bal Caritate - ASII</title>
-    <link rel="stylesheet" type="text/css" href="styles.css" />
-
     <!--  To be imported as it is here if the deployment is changed from github pages  -->
     <link rel="stylesheet" href="./css/variables.css" />
     <link rel="stylesheet" href="./css/common.css" />
@@ -229,32 +227,32 @@
 
       <div id="contact">
         <h1 class="white-text py-3">Contactează-ne completand formularul de mai jos </h1>
-        <form class="white-text" action="action_page.php">
+        <div class="white-text">
       
           <div class="row" id="contact-name">
 
             <div class="flex-1">
 
-              <label for="fname">First Name</label>
-              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+              <label for="fname">Nume</label>
+              <input type="text" id="fname" name="firstname" placeholder="Popescu">
             </div>
 
             <div class="flex-1" id="lastName">
 
-              <label for="lname">Last Name</label>
-              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+              <label for="lname">Prenume</label>
+              <input type="text" id="lname" name="lastname" placeholder="Maria">
             </div>
           </div>
 
           <label for="email">Email</label>
-            <input type="email" id="email" name="email" placeholder="Your email..">
+          <input type="email" id="email" name="email" placeholder="popescu.maria@gmail.com">
       
-          <label for="subject">Subject</label>
+          <label for="subject">Description</label>
           <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
       
-          <input type="submit" value="Submit">
+          <input type="submit" value="Submit" onclick="submitForm()">
       
-        </form>
+        </div>
       </div>
 
       <div class="footer row items-center py-3">
@@ -294,4 +292,5 @@
   <script src="./js/partners.js"></script>
   <script src="./js/sticky.js"></script>
   <script src="./js/slideshow.js"></script>
+  <script src="./js/contact.js"></script>
 </html>
