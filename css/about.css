@@ -25,13 +25,13 @@
 
 #about-content-description{
     width: 70%;
-    background: var(--blue-200);
+    background: var(--blue-500);
     padding: 25px 65px;
 }
 
 #about-content-description-text > p::first-letter{
     font-family: 'Times New Roman', Times, serif;
-    color: var(--blue-600);
+    color: var(--blue-200);
     font-size: 250%;
     font-weight: 1000;
 }
