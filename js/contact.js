@@ -4,7 +4,7 @@ function submitForm() {
   const email = document.getElementById('email').value;
   const subject = document.getElementById('subject').value;
 
-  var link = "mailto:dariamelinte2003@gmail.com"
+  var link = "mailto:caritate@asii.ro"
   + `?cc=${email}`
   + "&subject=" + encodeURIComponent(`Message from ${lastName} ${firstName}`)
   + "&body=" + encodeURIComponent(subject);
