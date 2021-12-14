@@ -1,13 +1,18 @@
 const partners = [
   {
     id: '1',
+    imageUrl: 'assets/images/partners/agora.png',
+    ulr: 'https://agora-centrul-de-evenimente.business.site/'
+  },
+  {
+    id: '2',
     imageUrl: 'assets/images/partners/lliw.png',
     ulr: 'https://m.facebook.com/lliw.coffee/?ref=py_c'
   },
   {
-    id: '2',
-    imageUrl: 'assets/images/partners/agora.png',
-    ulr: 'https://agora-centrul-de-evenimente.business.site/'
+    id: '3',
+    imageUrl: 'assets/images/partners/lisnic.png',
+    ulr: 'https://lisnicbarbershop.ro/'
   },
 ];
 
