@@ -1,10 +1,12 @@
 .intro-container {
   height: 85vh;
-  padding: 3rem;
+  padding: 3rem 0;
+  padding-left: 3rem;
+  justify-content: space-between;
 }
 
 .intro-container .title {
-  color: var(--blue-700);
+  color: var(--blue-200);
   font-size: 5rem;
   font-family: 'Montagu Slab', serif;
   font-weight: 700;
@@ -12,15 +14,12 @@
 }
 
 .intro-container .description {
-  color: var(--grey);
-  font-size: 1.2rem;
+  color: var(--grey-200);
+  font-size: 1rem;
   font-weight: 400;
   padding-top: 1.5rem;
 }
 
-.intro-elf-container {
-  margin-left: 2rem;
-}
 
 @keyframes title-moving {
   0% {
@@ -41,6 +40,10 @@
 }
 
 @media screen and (min-width: 900px) and (max-width: 1059px) {
+  .intro-container {
+    padding-left: 1.5rem;
+  }
+  
   .intro-container .title {
     font-size: 3.5rem;
   }
@@ -51,6 +54,10 @@
 }
 
 @media screen and (max-width: 899px) {
+  .intro-container {
+    padding-left: 1rem;
+  }
+  
   .intro-container .title {
     font-size: 2.5rem;
   }
@@ -62,15 +69,15 @@
 
 @media screen and (max-width: 699px) {
   .intro-container {
+    padding-left: 0;
+  }
+  
+  .intro-container {
     flex-direction: column;
     padding: 1.5rem;
   }
 
   .intro-container .description {
     padding-bottom: 1.5rem;
-  }
-
-  .intro-elf-container {
-    margin-left: 0;
   }
 }

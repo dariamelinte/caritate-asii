@@ -1,7 +1,7 @@
 #other{
-    background-color: var(--red-600);
+    background-image: url("../assets/images/pozasitedesene.png");
+    background-color: var(--blue-600);
     height: 450px;
-    background-image: url('../assets/svg/ilustratii.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -31,7 +31,7 @@
 #other-counterWrapper-counter{
     height: 150px;
     width: 400px;
-    background-color: var(--pink);
+    background-color: var(--blue-700);
     position: absolute;
     top: 110px;
     right: 80px;
@@ -39,7 +39,7 @@
 }
 
 .red-line{
-    background-color: red;
+    background-color: var(--blue-200);
     height: 3px;
     width: 25%;
 }

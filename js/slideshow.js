@@ -2,20 +2,36 @@ let slideIndex = 1;
 
 const images = [
   {
-    url: 'assets/images/slide/slide-1.jpg',
-    description: 'Description 1',
+    url: 'assets/images/slide/poza1.jpg',
+    description: 'Editia 17',
   },
   {
-    url: 'assets/images/slide/slide-2.jpg',
-    description: 'Description 2',
+    url: 'assets/images/slide/poza2.jpg',
+    description: 'Editia 17',
   },
   {
-    url: 'assets/images/slide/slide-3.jpg',
-    description: 'Description 3',
+    url: 'assets/images/slide/poza3.jpg',
+    description: 'Editia 17',
   },
   {
-    url: 'assets/images/slide/slide-4.jpg',
-    description: 'Description 4',
+    url: 'assets/images/slide/poza4.jpg',
+    description: 'Editia 17',
+  },
+  {
+    url: 'assets/images/slide/poza5.jpg',
+    description: 'Editia 17',
+  },
+  {
+    url: 'assets/images/slide/poza6.jpg',
+    description: 'Editia 16',
+  },
+  {
+    url: 'assets/images/slide/poza7.jpg',
+    description: 'Editia 16',
+  },
+  {
+    url: 'assets/images/slide/poza8.jpg',
+    description: 'Editia 16',
   },
 ];
 

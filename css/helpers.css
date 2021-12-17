@@ -17,6 +17,11 @@
   height: 100vh;
 }
 
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
 .row {
   display: flex;
   flex-direction: row;
@@ -45,6 +50,14 @@
 
 .py-3 {
   padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.pt-3 {
+  padding-top: 1.25rem;
+}
+
+.pb-3 {
   padding-bottom: 1.25rem;
 }
 

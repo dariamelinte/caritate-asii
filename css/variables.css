@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@700&display=swap');
 
 :root {
-  --white: #FFFFFF;
 
-  --blue-200: #D9E5E9;
   --blue-400: #98CBDE;
   --blue-500: #6E99F4;
   --blue-600: #51688D;
@@ -18,6 +16,21 @@
   --light-grey: #E8E8E8;
   --medium-grey: #9f9f9f;
   --grey: #777;
+
+  
+
+  --white: #FFFFFF;
+
+  --blue-200: #D9E5E9;
+  --blue-300: #c1c8d7;
+  --blue-400: #9faec6;
+  --blue-500: #b1bbcd;
+  --blue-600: #4d6080;
+  --blue-700: #242a3a;
+  --blue-800: #2e3a4d;
+  --blue-900: #282f3e;
+
+  --grey-200: #e0e4eb;
 
   --black: #000000;
 }

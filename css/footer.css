@@ -1,3 +1,7 @@
+.footer-container {
+  background-color: var(--blue-300);
+}
+
 .footer-container .trees {
   background-image: url("../assets/svg/christmas-trees.svg");
   background-repeat: no-repeat;
@@ -25,16 +29,16 @@
 
 .footer-container .white-back {
   flex: 2;
+  background-color: var(--blue-900);
 }
 
 .footer-container .blue-back {
   flex: 2;
-  background-color: var(--blue-700);
 }
 
 .footer {
-  background-color: var(--blue-700);
-  color: var(--white);
+  background-color: var(--blue-900);
+  color: var(--blue-900);
 }
 
 .footer .asii-icon {
@@ -51,6 +55,7 @@
   padding-bottom: 0.5rem;
   font-size: 1.2rem;
   font-weight: bold;
+  color: var(--blue-200);
 }
 
 .footer .subtitle {
